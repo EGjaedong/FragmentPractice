@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">切换Fragment</string>
+    <string name="btn_android_text">安卓</string>
+    <string name="btn_java_text">Java</string>
 </resources>

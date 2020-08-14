@@ -2,5 +2,5 @@
 <resources>
     <dimen name="btn_android_margin_top">10dp</dimen>
     <dimen name="buttons_fragment_width">0dp</dimen>
-    <dimen name="frame_layout_width">0dp</dimen>
+    <dimen name="detail_fragment_width">0dp</dimen>
 </resources>
