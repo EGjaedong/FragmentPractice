@@ -1,6 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <dimen name="btn_android_margin_top">10dp</dimen>
+    <dimen name="btn_margin_top">10dp</dimen>
     <dimen name="buttons_fragment_width">0dp</dimen>
     <dimen name="detail_fragment_width">0dp</dimen>
+    <dimen name="btn_margin_start_and_end">30dp</dimen>
 </resources>
