@@ -21,17 +21,18 @@
         app:layout_constraintGuide_percent="0.95" />
 
     <fragment
-        android:id="@+id/buttons"
+        android:name="com.thoughtworks.fragment.ButtonsFragment"
+        android:id="@+id/buttons_container"
         android:layout_width="@dimen/buttons_fragment_width"
         android:layout_height="match_parent"
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="@id/left_line" />
 
-    <fragment
-        android:id="@+id/frame_layout"
+    <!--<fragment
+        android:id="@+id/detail_container"
         android:layout_width="@dimen/detail_fragment_width"
         android:layout_height="match_parent"
         app:layout_constraintLeft_toLeftOf="@id/left_line"
-        app:layout_constraintRight_toRightOf="@id/right_line"/>
+        app:layout_constraintRight_toRightOf="@id/right_line"/>-->
 
 </androidx.constraintlayout.widget.ConstraintLayout>
