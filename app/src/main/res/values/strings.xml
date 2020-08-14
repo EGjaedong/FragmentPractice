@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">Change Fragment</string>
+    <string name="btn_android_text">Android</string>
 </resources>
