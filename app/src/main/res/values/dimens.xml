@@ -8,4 +8,6 @@
     <dimen name="detail_text_radius">4dp</dimen>
     <dimen name="detail_text_border">1dp</dimen>
     <dimen name="detail_text_margin_start_and_end">20dp</dimen>
+    <dimen name="detail_title_width">30dp</dimen>
+    <dimen name="detail_title_margin_start">5dp</dimen>
 </resources>

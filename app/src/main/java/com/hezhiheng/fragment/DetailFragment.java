@@ -4,6 +4,7 @@ import android.os.Bundle;
 import android.view.LayoutInflater;
 import android.view.View;
 import android.view.ViewGroup;
+import android.widget.Button;
 import android.widget.TextView;
 
 import androidx.annotation.NonNull;
@@ -23,9 +24,9 @@ public class DetailFragment extends Fragment {
     String javaDetailText;
 
     @BindView(R.id.detail_title)
-    TextView detailTitle;
+    Button detailTitle;
     @BindView(R.id.detail_text)
-    TextView detailText;
+    Button detailText;
 
     private int textType;
 
