@@ -28,11 +28,12 @@
         app:layout_constraintLeft_toLeftOf="parent"
         app:layout_constraintRight_toRightOf="@id/left_line" />
 
-    <!--<fragment
+    <fragment
+        android:name="com.thoughtworks.fragment.DetailFragment"
         android:id="@+id/detail_container"
         android:layout_width="@dimen/detail_fragment_width"
         android:layout_height="match_parent"
         app:layout_constraintLeft_toLeftOf="@id/left_line"
-        app:layout_constraintRight_toRightOf="@id/right_line"/>-->
+        app:layout_constraintRight_toRightOf="@id/right_line"/>
 
 </androidx.constraintlayout.widget.ConstraintLayout>

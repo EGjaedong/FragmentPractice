@@ -4,4 +4,8 @@
     <dimen name="buttons_fragment_width">0dp</dimen>
     <dimen name="detail_fragment_width">0dp</dimen>
     <dimen name="btn_margin_start_and_end">30dp</dimen>
+    <dimen name="title_margin_top">30dp</dimen>
+    <dimen name="detail_text_radius">4dp</dimen>
+    <dimen name="detail_text_border">1dp</dimen>
+    <dimen name="detail_text_margin_start_and_end">20dp</dimen>
 </resources>
