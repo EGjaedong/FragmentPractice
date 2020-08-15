@@ -2,4 +2,7 @@
     <string name="app_name">Change Fragment</string>
     <string name="btn_android_text">Android</string>
     <string name="btn_java_text">Java</string>
+    <string name="android_detail_text">Android is a mobile operating system。\nIt can bu developed whit Java, Kotlin, C/C++ language</string>
+    <string name="android_detail_title">Android</string>
+    <string name="java_detail_text">A new Fragment</string>
 </resources>

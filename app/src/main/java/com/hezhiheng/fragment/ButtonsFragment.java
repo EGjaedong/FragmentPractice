@@ -10,6 +10,9 @@ import androidx.annotation.Nullable;
 import androidx.fragment.app.Fragment;
 
 public class ButtonsFragment extends Fragment {
+    public static final int BUTTON_ANDROID = 0;
+    public static final int BUTTON_JAVA = 1;
+
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
