@@ -9,7 +9,7 @@ android {
     }
 
     defaultConfig {
-        applicationId "com.thoughtworks.fragment"
+        applicationId "com.hezhiheng.fragment"
         minSdkVersion 22
         targetSdkVersion 29
         versionCode 1
