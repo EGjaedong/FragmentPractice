@@ -29,8 +29,6 @@ public class DetailFragment extends Fragment {
 
     private int textType;
 
-    private View view;
-
     public DetailFragment(int textType) {
         this.textType = textType;
     }
@@ -38,7 +36,7 @@ public class DetailFragment extends Fragment {
     @Nullable
     @Override
     public View onCreateView(@NonNull LayoutInflater inflater, @Nullable ViewGroup container, @Nullable Bundle savedInstanceState) {
-        view = inflater.inflate(R.layout.detail_fragment, container, false);
+        View view = inflater.inflate(R.layout.detail_fragment, container, false);
         ButterKnife.bind(this, view);
         return view;
     }
